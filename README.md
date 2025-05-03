@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! I'm Alvinda Akbar 👋
+
+![Alvinda Akbar](img/github-header-image.png)
 
 <!--
 **Nandaakbar15/Nandaakbar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Welcome to my Github Profile.**
+
+I was a IT Bacheloor and enthusiastic with web development. As a web developer I was truly love to explore new technologies and always build a website.
+
+And I’m currently learning [**Vue.JS**](https://vuejs.org/) Framework, and [**Tailwind CSS**](https://tailwindcss.com/)
+
+#### Other Skill
+- Make a music with [**Famitracker**](https://famitracker.com/)
+
+#### Tech Stack
+
+##### Native Language
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js&theme=light)](https://skillicons.dev)
+
+
+##### Framework and Library
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,express,nodejs,nest,react&theme=light)](https://skillicons.dev)
+
+
+##### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
+
+
+##### Connect with me
+![https://www.instagram.com/alvindaakbar1933/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/alvinda-akbar-ba05322b2/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://x.com/alvinda_akbar](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://github.com/Nandaakbar15](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
