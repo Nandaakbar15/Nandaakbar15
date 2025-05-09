@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 **Welcome to my Github Profile.**
 
-I was a IT Bacheloor and enthusiastic with web development. As a web developer I was truly love to explore new technologies and always build a website.
+I am a Bachelor's graduate in IT and an enthusiastic web developer. As a web developer, I truly love exploring new technologies and building websites.
 
 And I’m currently learning [**Vue.JS**](https://vuejs.org/) Framework, and [**Tailwind CSS**](https://tailwindcss.com/)
 
-#### Other Skill
-- Make a music with [**Famitracker**](https://famitracker.com/)
+#### Side Hobby
+- Translating some old games and make a music with [**Famitracker**](https://famitracker.com/)
 
 #### Tech Stack
 
